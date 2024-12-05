@@ -1,3 +1,4 @@
 inputs/*
 sample_inputs/*
 .DS_Store
+.env
